@@ -11,6 +11,9 @@
 		1F5C6DF82B691E8A00B45BBD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F5C6DF72B691E8A00B45BBD /* ContentView.swift */; };
 		1F5C6DFA2B691E8B00B45BBD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F5C6DF92B691E8B00B45BBD /* Assets.xcassets */; };
 		1F5C6DFD2B691E8B00B45BBD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F5C6DFC2B691E8B00B45BBD /* Preview Assets.xcassets */; };
+		1F6F1E932B8A3E10002B30E8 /* Accont_ setting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F6F1E922B8A3E10002B30E8 /* Accont_ setting.swift */; };
+		1F7E50972B8ADF5200826A02 /* AccountCreationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F7E50962B8ADF5200826A02 /* AccountCreationView.swift */; };
+		1F7E50992B8AEBE200826A02 /* GoogleLogin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F7E50982B8AEBE200826A02 /* GoogleLogin.swift */; };
 		1F7FE20E2B71081200B84CE8 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1F7FE20D2B71081200B84CE8 /* GoogleService-Info.plist */; };
 		362E779C13AED40B3F9EF60D /* Pods_Firebase_test2.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8BAAA12C6088334095E468CE /* Pods_Firebase_test2.framework */; };
 /* End PBXBuildFile section */
@@ -21,6 +24,9 @@
 		1F5C6DF72B691E8A00B45BBD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1F5C6DF92B691E8B00B45BBD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1F5C6DFC2B691E8B00B45BBD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1F6F1E922B8A3E10002B30E8 /* Accont_ setting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Accont_ setting.swift"; sourceTree = "<group>"; };
+		1F7E50962B8ADF5200826A02 /* AccountCreationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountCreationView.swift; sourceTree = "<group>"; };
+		1F7E50982B8AEBE200826A02 /* GoogleLogin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoogleLogin.swift; sourceTree = "<group>"; };
 		1F7FE20D2B71081200B84CE8 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		3589B1A28DEF8D690257C809 /* Pods-Firebase_test2.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Firebase_test2.debug.xcconfig"; path = "Target Support Files/Pods-Firebase_test2/Pods-Firebase_test2.debug.xcconfig"; sourceTree = "<group>"; };
 		783A515969C9EE692F643776 /* Pods-Firebase_test2.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Firebase_test2.release.xcconfig"; path = "Target Support Files/Pods-Firebase_test2/Pods-Firebase_test2.release.xcconfig"; sourceTree = "<group>"; };
@@ -62,6 +68,9 @@
 			children = (
 				1F5C6DF52B691E8A00B45BBD /* Firebase_test2App.swift */,
 				1F5C6DF72B691E8A00B45BBD /* ContentView.swift */,
+				1F7E50982B8AEBE200826A02 /* GoogleLogin.swift */,
+				1F6F1E922B8A3E10002B30E8 /* Accont_ setting.swift */,
+				1F7E50962B8ADF5200826A02 /* AccountCreationView.swift */,
 				1F5C6DF92B691E8B00B45BBD /* Assets.xcassets */,
 				1F7FE20D2B71081200B84CE8 /* GoogleService-Info.plist */,
 				1F5C6DFB2B691E8B00B45BBD /* Preview Content */,
@@ -209,6 +218,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1F6F1E932B8A3E10002B30E8 /* Accont_ setting.swift in Sources */,
+				1F7E50992B8AEBE200826A02 /* GoogleLogin.swift in Sources */,
+				1F7E50972B8ADF5200826A02 /* AccountCreationView.swift in Sources */,
 				1F5C6DF82B691E8A00B45BBD /* ContentView.swift in Sources */,
 				1F5C6DF62B691E8A00B45BBD /* Firebase_test2App.swift in Sources */,
 			);
